@@ -1,0 +1,23 @@
+Student Name:Charlie Winterton
+Student P Number: P2451562
+Student Email: cwinterton123@gmail.com
+Submission Date: 2020-05-16
+Course: Computer Science
+
+
+Selected Modules:
+**********************************************
+CTEC3110 : Secure Web Application Development
+CTEC3451 : Development Project
+CTEC3605 : Multi-service Networks 1
+IMAT3104 : Database Management and Programming
+IMAT3423 : Systems Building: Methods
+IMAT3428 : Information Technology Services Practice
+IMAT3614 : Big Data and Business Models
+
+Reserved Modules:
+**********************************************
+CTEC3606 : Multi-service Networks 2
+CTEC3902 : Rigorous Systems
+IMAT3406 : Fuzzy Logic and Knowledge Based Systems
+IMAT3613 : Data Mining
